@@ -144,7 +144,7 @@ body{
     font-size: 50px;
     text-shadow: 4px 4px 7px #000000;
     margin-left: 20px;
-   margin-top: 100px;
+   margin-top: 60px;
     
 }
 
@@ -288,7 +288,7 @@ body{
   .popup {
     top: -60px;
     margin: 80px auto;
-    height: 520px;
+    height: 550px;
     padding: 20px;
     background: #2E3138;
     border-radius: 5px;
@@ -424,4 +424,11 @@ body{
     transform: rotate(45deg) translate(26px , -2px);
   }
 
- 
+ .foterr{
+   margin-bottom: 60px;
+ }
+ .ttq{
+   color: white;
+   margin-left: 500px;
+   
+ }
